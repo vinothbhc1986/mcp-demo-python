@@ -38,3 +38,10 @@
 2026-11-06 18:22:15,716 - INFO - HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
 2026-11-06 18:22:15,724 - INFO - Terminating session: 3f5bde876e87498294b501d97b4df857
 2026-11-06 18:22:15,728 - INFO - HTTP Request: DELETE http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-11-10 16:07:42,718 - INFO - StreamableHTTP session manager started
+2026-11-10 16:08:22,200 - INFO - Created new transport with session ID: 0c14f371d21f4c2d95f4892a769f69c6
+2026-11-10 16:08:22,202 - INFO - Terminating session: 0c14f371d21f4c2d95f4892a769f69c6
+2026-11-10 17:41:11,882 - INFO - StreamableHTTP session manager started
+2026-11-10 17:41:47,308 - INFO - Created new transport with session ID: 4960a52b45134f9b877641a62d96fc2f
+2026-11-10 17:41:47,312 - INFO - Terminating session: 4960a52b45134f9b877641a62d96fc2f
+2026-11-10 17:43:07,047 - INFO - StreamableHTTP session manager shutting down
